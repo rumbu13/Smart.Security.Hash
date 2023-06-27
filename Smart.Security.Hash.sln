@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smart.Security.Hash", "Smart.Security.Hash\Smart.Security.Hash.csproj", "{708077E8-833A-4762-BE96-052C7799C819}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smart.Security.Hash.DependencyInjection", "Smart.Security.Hash.DependencyInjection\Smart.Security.Hash.DependencyInjection.csproj", "{8BAFDBB9-BB2F-438A-BA18-826779CAE22F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smart.Security.Hash.Abstractions", "Smart.Security.Hash.Abstractions\Smart.Security.Hash.Abstractions.csproj", "{9319BC56-A34C-49D3-9C49-CEAFF95C1424}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smart.Security.Hash.Extensions", "Smart.Security.Hash.Extensions\Smart.Security.Hash.Extensions.csproj", "{82394404-E54F-4ED9-BC0B-03EBAEAD5756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart.Security.Hash.Tests", "Smart.Security.Hash.Tests\Smart.Security.Hash.Tests.csproj", "{7E5CAB2F-B0A7-4BCC-A962-6F98D106E0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708077E8-833A-4762-BE96-052C7799C819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708077E8-833A-4762-BE96-052C7799C819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708077E8-833A-4762-BE96-052C7799C819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708077E8-833A-4762-BE96-052C7799C819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BAFDBB9-BB2F-438A-BA18-826779CAE22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAFDBB9-BB2F-438A-BA18-826779CAE22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAFDBB9-BB2F-438A-BA18-826779CAE22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAFDBB9-BB2F-438A-BA18-826779CAE22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9319BC56-A34C-49D3-9C49-CEAFF95C1424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9319BC56-A34C-49D3-9C49-CEAFF95C1424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9319BC56-A34C-49D3-9C49-CEAFF95C1424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9319BC56-A34C-49D3-9C49-CEAFF95C1424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82394404-E54F-4ED9-BC0B-03EBAEAD5756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82394404-E54F-4ED9-BC0B-03EBAEAD5756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82394404-E54F-4ED9-BC0B-03EBAEAD5756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82394404-E54F-4ED9-BC0B-03EBAEAD5756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5CAB2F-B0A7-4BCC-A962-6F98D106E0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5CAB2F-B0A7-4BCC-A962-6F98D106E0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5CAB2F-B0A7-4BCC-A962-6F98D106E0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5CAB2F-B0A7-4BCC-A962-6F98D106E0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD843AD6-4F08-4A86-BC70-2979A17BB3D2}
+	EndGlobalSection
+EndGlobal
